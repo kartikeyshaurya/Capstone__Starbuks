@@ -19,6 +19,8 @@ First lets see the structure of the file :-
     │   |── transaction_gen
     │   |── transcript_new_2   
     | 
+    ├── Starbucks_capstane_notebook.ipynb   # contain main file 
+    |
     ├── filename4.pkl  
     │                 # Trained ML model  
     |── article.pdf  # main pdf file that contain article

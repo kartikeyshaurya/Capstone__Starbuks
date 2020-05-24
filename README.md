@@ -2,6 +2,31 @@
 
 the link to the medium is https://medium.com/@kartikeyshaurya/profitable-promotional-strategy-for-starbucks-1de64ce52a5f
 
+Structure of the file is 
+
+## Setup 
+
+First lets see the structure of the file :-
+
+    ├── data                   
+    │   ├── offer
+    │   ├── offer_norec_comp
+    │   |── offer_record
+    │   |── offer_record_norec_comp    
+    │   |── person_all_information
+    │   |── person_offer_demographic
+    │   |── portfolio.json
+    │   |── transaction_gen
+    │   |── transcript_new_2   
+    | 
+    ├── filename4.pkl  
+    │                 # Trained ML model  
+    |── article.pdf  # main pdf file that contain article
+    |                                      
+    └── README.md     # all the contains 
+
+<a name ="run"></a>
+
 ## Dataset overview
 * The program used to create the data simulates how people make purchasing decisions and how those decisions are influenced by promotional offers.
 

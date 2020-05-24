@@ -17,6 +17,9 @@ The task is to combine transaction, demographic and offer data to determine whic
 Every offer has a validity period before the offer expires. As an example, a BOGO offer might be valid for only 5 days. In the data set that informational offers have a validity period even though these ads are merely providing information about a product; for example, if an informational offer has 7 days of validity, you can assume the customer is feeling the influence of the offer for 7 days after receiving the advertisement.
 
 
+## The Goal 
+
+The basic task is to use the data to identify which groups of people are most responsive to each type of offer, and how best to present each type of offer.
 
 
 
